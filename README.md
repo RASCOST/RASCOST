@@ -1,4 +1,4 @@
-#👋 Hi, I'm Ricardo.
+# 👋 Hi, I'm Ricardo.
 Here you can find all my personal projects and the project's where I had collaborated.
-##⚒ Tools:
+## ⚒ Tools:
 **JS**〰**REACT**〰**REACT-NATIVE**〰**NODE.JS**〰**RUBY**〰**RAILS**
